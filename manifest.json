@@ -1,117 +1,55 @@
 {
   "schema": 1,
-  "version": "202611171636live",
-  "updated": "2026-11-17 16:36:40 UTC",
-  "updatedAt": "2026-11-17 16:36:40 UTC",
-  "base": "https://github-com-gh.helloworlds.eu.org/ny666ycj/jnk/raw/m/",
+  "version": "202611180142live",
+  "updated": "2026-11-18 01:42:32",
+  "updatedAt": "2026-11-18 01:42:32",
+  "base": "https://cdn.jsdelivr.net/gh/ny666jyc/jnk@live/",
   "public": true,
   "tools": {
+    "21": {
+      "name": "小白装机",
+      "filename": "21-小白装机.exe",
+      "url": "https://kun.4275.com/202611180117/03ae95a226297137cc8ca7bf0a2c787c/2026/11/17/012859QOXu9X1B.exe?response-content-disposition=filename%3D21-%25E5%25B0%258F%25E7%2599%25BD%25E8%25A3%2585%25E6%259C%25BA.exe.exe&response-content-type=application%2Foctet-stream&OSSAccessKeyId=LTAIsiWtWjktW7Aa&Expires=1794939128&Signature=XrxCJ4sWRwchJEKT9MVkMShG6BM%3D",
+      "size": 7244288,
+      "sha256": "1b4e561b9e4564c4089fb063747f502a95dc08e6ca8ece5ac487f0fc0c2eb829",
+      "args": ""
+    },
+    "31": {
+      "name": "技术员装机",
+      "filename": "技术员一键重装 密码（vip0）.exe",
+      "url": "https://kun.4275.com/202611180117/79fa7c4918699a50c4da75e32678dda5/2026/11/17/013412P0mXvuXK.exe?response-content-disposition=filename%3D%25E6%258A%2580%25E6%259C%25AF%25E5%2591%2598%25E4%25B8%2580%25E9%2594%25AE%25E9%2587%258D%25E8%25A3%2585%2520%25E5%25AF%2586%25E7%25A0%2581%25EF%25BC%2588vip0%25EF%25BC%2589.exe&response-content-type=application%2Foctet-stream&OSSAccessKeyId=LTAIsiWtWjktW7Aa&Expires=1794939129&Signature=FuHbQ51aH%2FYyczofy0aBC2%2BUdNw%3D",
+      "size": 34341376,
+      "sha256": "81a0382732215e152ce947e29084e2fde4c2fe16886a15f905e827b263acf62c",
+      "args": ""
+    },
     "8": {
       "name": "驱动总裁",
       "filename": "8-驱动总裁免登录.exe",
-      "file": "files/8.exe",
-      "url": "https://kun.4275.com/202611180011/7408d03cb34edd7bfdc1c2a9fa3c46cf/2026/11/17/225215Wn2wQkUn.exe?response-content-disposition=filename%3D8-%25E9%25A9%25B1%25E5%258A%25A8%25E6%2580%25BB%25E8%25A3%2581%25E5%2585%258D%25E7%2599%25BB%25E5%25BD%2595.exe&response-content-type=application%2Foctet-stream&OSSAccessKeyId=LTAIsiWtWjktW7Aa&Expires=1794935167&Signature=66PZ8uNHPAqI6OEzihhcPB8HcPA%3D",
+      "url": "https://kun.4275.com/202611180117/629f033707595c6c7eef3f2ff31ad7ce/2026/11/17/012825U8IemHAV.exe?response-content-disposition=filename%3D8-%25E9%25A9%25B1%25E5%258A%25A8%25E6%2580%25BB%25E8%25A3%2581%25E5%2585%258D%25E7%2599%25BB%25E5%25BD%2595.exe.exe&response-content-type=application%2Foctet-stream&OSSAccessKeyId=LTAIsiWtWjktW7Aa&Expires=1794939132&Signature=rJ%2FpdmdWe6R94CSlugnc19YZ49o%3D",
       "size": 30047837,
       "sha256": "9053460ea4b3525e3f17da3161a38ca9af69f7d98691b4237b294204999f7538",
-      "args": ""
-    },
-    "9": {
-      "name": "硬刷网卡",
-      "filename": "9-IT硬工具码密码IT1818.exe",
-      "file": "files/9.exe",
-      "url": "https://kun.4275.com/202611180011/b8af1ada48c3b0d916c3227d504796a0/2026/11/17/225308ypNNiiN3.exe?response-content-disposition=filename%3D9-IT%25E7%25A1%25AC%25E5%25B7%25A5%25E5%2585%25B7%25E7%25A0%2581%25E5%25AF%2586%25E7%25A0%2581IT1818.exe&response-content-type=application%2Foctet-stream&OSSAccessKeyId=LTAIsiWtWjktW7Aa&Expires=1794935173&Signature=%2F98I4dhi91NuLgDei5Np%2BZVWOUI%3D",
-      "size": 45326336,
-      "sha256": "69640adfa772872cdede43ddc056beee02be2bba3509bdba9206026636ddb317",
-      "args": ""
-    },
-    "11": {
-      "name": "系统激活",
-      "filename": "11.exe",
-      "file": "files/11.exe",
-      "url": "https://kun.4275.com/202611180011/d2c3e7c8d70734ceaa07c7504d7448ab/2026/11/17/225054c37UrTrY.exe?response-content-disposition=filename%3D11.exe&response-content-type=application%2Foctet-stream&OSSAccessKeyId=LTAIsiWtWjktW7Aa&Expires=1794935176&Signature=RCR48SQwr3%2FtiRIzmcPdrDWTMfY%3D",
-      "size": 4707840,
-      "sha256": "6ad72af453a9c4db99a30317e97689e893a110681e84655392865c8a813e8a5c",
-      "args": ""
-    },
-    "12": {
-      "name": "删除 PE 启动项",
-      "filename": "12-4.删除开机提示PE启动项.exe",
-      "file": "files/12.exe",
-      "url": "https://kun.4275.com/202611180011/3469ceb21bec5ad09d3c0a4cca64b61a/2026/11/17/225814sKco3WOn.exe?response-content-disposition=filename%3D12-4.%25E5%2588%25A0%25E9%2599%25A4%25E5%25BC%2580%25E6%259C%25BA%25E6%258F%2590%25E7%25A4%25BAPE%25E5%2590%25AF%25E5%258A%25A8%25E9%25A1%25B9.exe&response-content-type=application%2Foctet-stream&OSSAccessKeyId=LTAIsiWtWjktW7Aa&Expires=1794935177&Signature=OVfMvWSHkuGtqvSawUYlUDQJmJA%3D",
-      "size": 3158046,
-      "sha256": "9e2ba4676cdbe286229aeb856d4d2ed5d268baa5dcb45390e3fbff0fbdd4b356",
       "args": ""
     },
     "13": {
       "name": "微软运行库",
       "filename": "13-VC++运行库DX9.exe",
-      "file": "files/13.exe",
-      "url": "https://kun.4275.com/202611180011/56b731e6640481be4f893f946f4fce17/2026/11/17/225349aUu3RHNZ.exe?response-content-disposition=filename%3D13-VC%252B%252B%25E8%25BF%2590%25E8%25A1%258C%25E5%25BA%2593DX9.exe&response-content-type=application%2Foctet-stream&OSSAccessKeyId=LTAIsiWtWjktW7Aa&Expires=1794935181&Signature=WbLlQiIaUZeL6f7JXYyxr3FUqoQ%3D",
+      "url": "https://kun.4275.com/202611180117/f73955f6644f079252a581cafa5f6f65/2026/11/17/012847USE8xQuC.exe?response-content-disposition=filename%3D13-VC%252B%252B%25E8%25BF%2590%25E8%25A1%258C%25E5%25BA%2593DX9.exe.exe&response-content-type=application%2Foctet-stream&OSSAccessKeyId=LTAIsiWtWjktW7Aa&Expires=1794939134&Signature=dM57TbUQsdYm2C6P9XickRwaY3A%3D",
       "size": 36876062,
       "sha256": "820d1b86b88435f4a71834b86f291443dbc44ae7ddd7c791a4c74d7da298614a",
-      "args": ""
-    },
-    "15": {
-      "name": "查看电脑自动启动管理",
-      "filename": "15-启动项目管理.exe",
-      "file": "files/15.exe",
-      "url": "https://kun.4275.com/202611180011/b11c66ec96f53fd0b3181275394bfe2e/2026/11/17/225821hvPy1uPL.exe?response-content-disposition=filename%3D15-%25E5%2590%25AF%25E5%258A%25A8%25E9%25A1%25B9%25E7%259B%25AE%25E7%25AE%25A1%25E7%2590%2586.exe&response-content-type=application%2Foctet-stream&OSSAccessKeyId=LTAIsiWtWjktW7Aa&Expires=1794935187&Signature=yp7ZNZYMEIodCW7xFIRCWG6VCYY%3D",
-      "size": 5692958,
-      "sha256": "68ca358e7ad98d8489977ec0e5b87df912e8f104a2d36ed3fd346d8c01467c8d",
-      "args": ""
-    },
-    "18": {
-      "name": "网络重置脚本",
-      "filename": "18-网络问题把我拉到桌面双击运行重置.bat",
-      "file": "files/18.bat",
-      "url": "https://kun.4275.com/202611180011/4904084b731f44af651188609428f6f7/2026/11/17/22535682jlAWnX.bat?response-content-disposition=filename%3D18-%25E7%25BD%2591%25E7%25BB%259C%25E9%2597%25AE%25E9%25A2%2598%25E6%258A%258A%25E6%2588%2591%25E6%258B%2589%25E5%2588%25B0%25E6%25A1%258C%25E9%259D%25A2%25E5%258F%258C%25E5%2587%25BB%25E8%25BF%2590%25E8%25A1%258C%25E9%2587%258D%25E7%25BD%25AE.bat&response-content-type=application%2Foctet-stream&OSSAccessKeyId=LTAIsiWtWjktW7Aa&Expires=1794935189&Signature=W%2FTSf4ll5Dx%2FEl1gU3zW3UBkZLU%3D",
-      "size": 51,
-      "sha256": "ce40c2a4fe4ce7e688981e9f7dccb69ec34e47b4b756d7cd579b437c1859a2f7",
-      "args": ""
-    },
-    "20": {
-      "name": "禁用 Windows 更新",
-      "filename": "20-禁用Windows Update.exe",
-      "file": "files/20.exe",
-      "url": "https://kun.4275.com/202611180011/3a807014e803478ecc46763bce69e1d9/2026/11/17/225359vroZKKts.exe?response-content-disposition=filename%3D20-%25E7%25A6%2581%25E7%2594%25A8Windows%2520Update.exe&response-content-type=application%2Foctet-stream&OSSAccessKeyId=LTAIsiWtWjktW7Aa&Expires=1794935190&Signature=pLxdQPMs4gePzLMQumaoJTK2d7s%3D",
-      "size": 524288,
-      "sha256": "c0a1d65e714ca20593721bebdc185abf9166066cf29e17e567f5384c4f12a2bd",
-      "args": ""
-    },
-    "21": {
-      "name": "小白装机",
-      "filename": "21-小白装机.exe",
-      "file": "files/21.exe",
-      "url": "https://kun.4275.com/202611180011/8c12da77307cbd71dfba117f6f26784d/2026/11/17/225411WeAk5u59.exe?response-content-disposition=filename%3D21-%25E5%25B0%258F%25E7%2599%25BD%25E8%25A3%2585%25E6%259C%25BA.exe&response-content-type=application%2Foctet-stream&OSSAccessKeyId=LTAIsiWtWjktW7Aa&Expires=1794935192&Signature=KOcRNbVU7HEKIVj%2BPWeQ8IbAxWQ%3D",
-      "size": 7244288,
-      "sha256": "1b4e561b9e4564c4089fb063747f502a95dc08e6ca8ece5ac487f0fc0c2eb829",
       "args": ""
     },
     "23": {
       "name": "DRX 修复 DLL 安装",
       "filename": "23-DRX修复启动器.exe",
-      "file": "files/23.exe",
+      "url": "https://kun.4275.com/202611180117/ef7f783d6362b80e1f7e69e26ef1737f/2026/11/17/01292546Ot7Hwr.exe?response-content-disposition=filename%3D23-DRX%25E4%25BF%25AE%25E5%25A4%258D%25E5%2590%25AF%25E5%258A%25A8%25E5%2599%25A8.exe.exe&response-content-type=application%2Foctet-stream&OSSAccessKeyId=LTAIsiWtWjktW7Aa&Expires=1794939136&Signature=eno5G9jrUONwc8X%2BVvMOzP92xdo%3D",
       "size": 87114740,
       "sha256": "66f1d4ea8ffab63dfc97b8218c78623a0073cbc9f69bbdfc6a708b9198a4b65d",
-      "args": "",
-      "enabled": true,
-      "note": "",
-      "url": "https://kun.4275.com/202611180011/871b924cae5bd8bdc6cb7d7882abff48/2026/11/17/225651e2nOEbMk.exe?response-content-disposition=filename%3D23-DRX%25E4%25BF%25AE%25E5%25A4%258D%25E5%2590%25AF%25E5%258A%25A8%25E5%2599%25A8.exe&response-content-type=application%2Foctet-stream&OSSAccessKeyId=LTAIsiWtWjktW7Aa&Expires=1794935193&Signature=H%2Bvmoh2KQCmCx0kxmZRCq4kdnPk%3D"
-    },
-    "27": {
-      "name": "BitLocker 解密",
-      "filename": "27-BitLocker解密.exe",
-      "file": "files/27.exe",
-      "url": "https://kun.4275.com/202611180011/c6d2d4a7c97ae91f190d38414c3f7457/2026/11/17/225526VQjl53ve.exe?response-content-disposition=filename%3D27-BitLocker%25E8%25A7%25A3%25E5%25AF%2586.exe&response-content-type=application%2Foctet-stream&OSSAccessKeyId=LTAIsiWtWjktW7Aa&Expires=1794935194&Signature=aa260FgdWT3gCflwMJCzzxoF4ys%3D",
-      "size": 71769005,
-      "sha256": "e64c029459f87f202e9d5217eb942ef2b27c6e5dd7c0bafc3c4dfc70c22b7b1d",
       "args": ""
     },
     "28": {
       "name": "N 卡控制面板安装",
       "filename": "28-N卡控制面板离线安装.Appx",
-      "file": "files/28.appx",
-      "url": "https://kun.4275.com/202611180011/9fefbca093764b36f1ddac96b56dc7ea/2026/11/17/225533fOBw7zjL.Appx?response-content-disposition=filename%3D28-N%25E5%258D%25A1%25E6%258E%25A7%25E5%2588%25B6%25E9%259D%25A2%25E6%259D%25BF%25E7%25A6%25BB%25E7%25BA%25BF%25E5%25AE%2589%25E8%25A3%2585.Appx&response-content-type=application%2Foctet-stream&OSSAccessKeyId=LTAIsiWtWjktW7Aa&Expires=1794935196&Signature=%2FywbLbZKRy2jpMn%2BPwSkdfkMM1A%3D",
+      "url": "https://kun.4275.com/202611180117/9cbbfe68273274280f7a1929c4da3ad7/2026/11/17/012944zfpswlE2.Appx?response-content-disposition=filename%3D28-N%25E5%258D%25A1%25E6%258E%25A7%25E5%2588%25B6%25E9%259D%25A2%25E6%259D%25BF%25E7%25A6%25BB%25E7%25BA%25BF%25E5%25AE%2589%25E8%25A3%2585.Appx.Appx&response-content-type=application%2Foctet-stream&OSSAccessKeyId=LTAIsiWtWjktW7Aa&Expires=1794939141&Signature=R7FLlQyzBe0J3vJYWX0NkqLXODM%3D",
       "size": 5876587,
       "sha256": "dd9ca6be34a6f9d90d8eb85ff39c4292f14df32dd7f6e032fec0c8de76b98eeb",
       "args": ""
@@ -119,28 +57,66 @@
     "29": {
       "name": "WinRAR 汉化版",
       "filename": "29-WinRAR.exe",
-      "file": "files/29.exe",
-      "url": "https://kun.4275.com/202611180011/f858b49cb98983f1ba293bdde6a19cf7/2026/11/17/225536V4ikqaVp.exe?response-content-disposition=filename%3D29-WinRAR.exe&response-content-type=application%2Foctet-stream&OSSAccessKeyId=LTAIsiWtWjktW7Aa&Expires=1794935197&Signature=NRG%2FQKcTYcu%2BhbCD%2FNfYHNvH3Ic%3D",
+      "url": "https://kun.4275.com/202611180117/334ac39715a4ef7f1bde25f605b66008/2026/11/17/012944XeGlZJB5.exe?response-content-disposition=filename%3D29-WinRAR.exe.exe&response-content-type=application%2Foctet-stream&OSSAccessKeyId=LTAIsiWtWjktW7Aa&Expires=1794939142&Signature=%2FGA5hJywBqRMqUyHr1YbnJt484c%3D",
       "size": 313688,
       "sha256": "eb88ea8ab19afa1dcd203d3584857b957bd4656ab7c9d7c36f9bff7c4cdf199c",
+      "args": ""
+    },
+    "11": {
+      "name": "系统激活",
+      "filename": "11.exe",
+      "url": "https://kun.4275.com/202611180117/c0ea10a96278462b0ed15d68ce508f9d/2026/11/17/012838YSO6p2xu.exe?response-content-disposition=filename%3D11.exe&response-content-type=application%2Foctet-stream&OSSAccessKeyId=LTAIsiWtWjktW7Aa&Expires=1794939142&Signature=kEivGj9Itixp5CFfQgC%2FPQDG%2F5Y%3D",
+      "size": 4707840,
+      "sha256": "6ad72af453a9c4db99a30317e97689e893a110681e84655392865c8a813e8a5c",
+      "args": ""
+    },
+    "20": {
+      "name": "禁用杀毒",
+      "filename": "20-禁用Windows Update.exe",
+      "url": "https://kun.4275.com/202611180117/271bad9aa97a1d1b04e9fb8dbb032b57/2026/11/17/012851G7NRXngg.exe?response-content-disposition=filename%3D20-%25E7%25A6%2581%25E7%2594%25A8Windows%2520Update.exe.exe&response-content-type=application%2Foctet-stream&OSSAccessKeyId=LTAIsiWtWjktW7Aa&Expires=1794939143&Signature=rdJWnvh83jgLOY750SCFkG4%2FE1o%3D",
+      "size": 524288,
+      "sha256": "c0a1d65e714ca20593721bebdc185abf9166066cf29e17e567f5384c4f12a2bd",
+      "args": ""
+    },
+    "27": {
+      "name": "BitLocker 解密",
+      "filename": "27-BitLocker解密.exe",
+      "url": "https://kun.4275.com/202611180117/a70b0e16b7fdd9b17739e53ea192a447/2026/11/17/012942ULR6R4Gr.exe?response-content-disposition=filename%3D27-BitLocker%25E8%25A7%25A3%25E5%25AF%2586.exe.exe&response-content-type=application%2Foctet-stream&OSSAccessKeyId=LTAIsiWtWjktW7Aa&Expires=1794939143&Signature=6bC8OgOwXZlXVnhG%2Fo7sm4BarOE%3D",
+      "size": 71769005,
+      "sha256": "e64c029459f87f202e9d5217eb942ef2b27c6e5dd7c0bafc3c4dfc70c22b7b1d",
+      "args": ""
+    },
+    "9": {
+      "name": "硬刷网卡",
+      "filename": "9-IT硬工具码密码IT1818.exe",
+      "url": "https://kun.4275.com/202611180117/bee36aadb0e14a5c446343fba77d0e7b/2026/11/17/012836JUUzhFFf.exe?response-content-disposition=filename%3D9-IT%25E7%25A1%25AC%25E5%25B7%25A5%25E5%2585%25B7%25E7%25A0%2581%25E5%25AF%2586%25E7%25A0%2581IT1818.exe.exe&response-content-type=application%2Foctet-stream&OSSAccessKeyId=LTAIsiWtWjktW7Aa&Expires=1794939147&Signature=nbLTiNBqpK7FOlQD8qtyXDPbto4%3D",
+      "size": 45326336,
+      "sha256": "69640adfa772872cdede43ddc056beee02be2bba3509bdba9206026636ddb317",
+      "args": ""
+    },
+    "18": {
+      "name": "网络重置",
+      "filename": "18-网络问题把我拉到桌面双击运行重置.bat",
+      "url": "https://kun.4275.com/202611180117/bf52b277e08d0181743bb34fc9a8bcb7/2026/11/17/012848m7cRYq42.bat?response-content-disposition=filename%3D18-%25E7%25BD%2591%25E7%25BB%259C%25E9%2597%25AE%25E9%25A2%2598%25E6%258A%258A%25E6%2588%2591%25E6%258B%2589%25E5%2588%25B0%25E6%25A1%258C%25E9%259D%25A2%25E5%258F%258C%25E5%2587%25BB%25E8%25BF%2590%25E8%25A1%258C%25E9%2587%258D%25E7%25BD%25AE.bat.bat&response-content-type=application%2Foctet-stream&OSSAccessKeyId=LTAIsiWtWjktW7Aa&Expires=1794939150&Signature=XIu1899YlmYzgvKAypoF70KUzMQ%3D",
+      "size": 51,
+      "sha256": "ce40c2a4fe4ce7e688981e9f7dccb69ec34e47b4b756d7cd579b437c1859a2f7",
+      "args": ""
+    },
+    "15": {
+      "name": "查看电脑自动启动管理",
+      "filename": "15-启动项目管理.exe",
+      "url": "https://kun.4275.com/202611180117/738e15dc0542a446bf17d344bb99c6c8/2026/11/17/012848lg1SU8P5.exe?response-content-disposition=filename%3D15-%25E5%2590%25AF%25E5%258A%25A8%25E9%25A1%25B9%25E7%259B%25AE%25E7%25AE%25A1%25E7%2590%2586.exe.exe&response-content-type=application%2Foctet-stream&OSSAccessKeyId=LTAIsiWtWjktW7Aa&Expires=1794939150&Signature=6hpSFcpO6CkxFqxSMklWWjzzjGM%3D",
+      "size": 2915840,
+      "sha256": "8bb5965c02cd67e8672a54ba40c60f240efd3f023afa9ccb129dd1bde7f778c2",
       "args": ""
     },
     "30": {
       "name": "环境清理工具",
       "filename": "30-公益环境清理工具.bat",
-      "file": "files/30.bat",
-      "url": "https://kun.4275.com/202611180011/4033f887526b597c2631a27fa0162603/2026/11/17/225537Yigkgg8F.bat?response-content-disposition=filename%3D30-%25E5%2585%25AC%25E7%259B%258A%25E7%258E%25AF%25E5%25A2%2583%25E6%25B8%2585%25E7%2590%2586%25E5%25B7%25A5%25E5%2585%25B7.bat&response-content-type=application%2Foctet-stream&OSSAccessKeyId=LTAIsiWtWjktW7Aa&Expires=1794935199&Signature=tWUTVxrjfcRZN8qYIFh9oNI25ho%3D",
+      "url": "https://kun.4275.com/202611180117/174388806241fefc3f2d0c1ab76dbeb5/2026/11/17/0129441NOr5YqH.bat?response-content-disposition=filename%3D30-%25E5%2585%25AC%25E7%259B%258A%25E7%258E%25AF%25E5%25A2%2583%25E6%25B8%2585%25E7%2590%2586%25E5%25B7%25A5%25E5%2585%25B7.exe.bat&response-content-type=application%2Foctet-stream&OSSAccessKeyId=LTAIsiWtWjktW7Aa&Expires=1794939151&Signature=hxjaH1rqBwntguB0qOi07c6AA8w%3D",
       "size": 40400,
       "sha256": "eb0b215a6b75f11bc855a0c29595e7f776e1978873adab07f461ea0e8c1d06e3",
       "args": ""
     }
-  },
-  "app": {
-    "name": "纪年科技 · 装机维修工作台",
-    "file": "app/JiNianTech-Setup.exe",
-    "size": 10285833,
-    "sha256": "d205fd52287fb73b7a42c0691ce5a3ce03da6ff1334ff3f279af6383d31625c4",
-    "updated": "2026-11-17 11:19:25"
-  },
-  "_base_url": "https://github-com-gh.helloworlds.eu.org/ny666ycj/jnk/raw/m/"
+  }
 }
