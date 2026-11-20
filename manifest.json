@@ -1,1 +1,170 @@
-{"schema":1,"version":"202611171119","updated":"2026-11-17 11:19:25","updatedAt":"2026-11-17 11:19:25","base":"https://github-com-gh.helloworlds.eu.org/ny666jyc/jnk/raw/m/","public":true,"tools":{"8":{"name":"驱动总裁","filename":"8-驱动总裁免登录.exe","file":"files/8.exe","url":"","size":30047837,"sha256":"9053460ea4b3525e3f17da3161a38ca9af69f7d98691b4237b294204999f7538","args":""},"9":{"name":"硬刷网卡","filename":"9-IT硬工具码密码IT1818.exe","file":"files/9.exe","url":"","size":45326336,"sha256":"69640adfa772872cdede43ddc056beee02be2bba3509bdba9206026636ddb317","args":""},"11":{"name":"系统激活","filename":"11.exe","file":"files/11.exe","url":"","size":4707840,"sha256":"6ad72af453a9c4db99a30317e97689e893a110681e84655392865c8a813e8a5c","args":""},"12":{"name":"删除 PE 启动项","filename":"12-4.删除开机提示PE启动项.exe","file":"files/12.exe","url":"","size":3158046,"sha256":"9e2ba4676cdbe286229aeb856d4d2ed5d268baa5dcb45390e3fbff0fbdd4b356","args":""},"13":{"name":"微软运行库","filename":"13-VC++运行库DX9.exe","file":"files/13.exe","url":"","size":36876062,"sha256":"820d1b86b88435f4a71834b86f291443dbc44ae7ddd7c791a4c74d7da298614a","args":""},"15":{"name":"查看电脑自动启动管理","filename":"15-启动项目管理.exe","file":"files/15.exe","url":"","size":5692958,"sha256":"68ca358e7ad98d8489977ec0e5b87df912e8f104a2d36ed3fd346d8c01467c8d","args":""},"18":{"name":"网络重置脚本","filename":"18-网络问题把我拉到桌面双击运行重置.bat","file":"files/18.bat","url":"","size":51,"sha256":"ce40c2a4fe4ce7e688981e9f7dccb69ec34e47b4b756d7cd579b437c1859a2f7","args":""},"20":{"name":"禁用 Windows 更新","filename":"20-禁用Windows Update.exe","file":"files/20.exe","url":"","size":524288,"sha256":"c0a1d65e714ca20593721bebdc185abf9166066cf29e17e567f5384c4f12a2bd","args":""},"21":{"name":"小白装机","filename":"21-小白装机.exe","file":"files/21.exe","url":"","size":7244288,"sha256":"1b4e561b9e4564c4089fb063747f502a95dc08e6ca8ece5ac487f0fc0c2eb829","args":""},"23":{"name":"DRX 修复 DLL 安装","filename":"23-DRX修复启动器.exe","file":"files/23.exe","size":87114740,"sha256":"66f1d4ea8ffab63dfc97b8218c78623a0073cbc9f69bbdfc6a708b9198a4b65d","args":"","enabled":true,"note":"","url":""},"27":{"name":"BitLocker 解密","filename":"27-BitLocker解密.exe","file":"files/27.exe","url":"","size":71769005,"sha256":"e64c029459f87f202e9d5217eb942ef2b27c6e5dd7c0bafc3c4dfc70c22b7b1d","args":""},"28":{"name":"N 卡控制面板安装","filename":"28-N卡控制面板离线安装.Appx","file":"files/28.appx","url":"","size":5876587,"sha256":"dd9ca6be34a6f9d90d8eb85ff39c4292f14df32dd7f6e032fec0c8de76b98eeb","args":""},"29":{"name":"WinRAR 汉化版","filename":"29-WinRAR.exe","file":"files/29.exe","url":"","size":313688,"sha256":"eb88ea8ab19afa1dcd203d3584857b957bd4656ab7c9d7c36f9bff7c4cdf199c","args":""},"30":{"name":"环境清理工具","filename":"30-公益环境清理工具.bat","file":"files/30.bat","url":"","size":40400,"sha256":"eb0b215a6b75f11bc855a0c29595e7f776e1978873adab07f461ea0e8c1d06e3","args":""}},"app":{"name":"纪年科技 · 装机维修工作台","file":"app/JiNianTech-Setup.exe","size":10285833,"sha256":"d205fd52287fb73b7a42c0691ce5a3ce03da6ff1334ff3f279af6383d31625c4","updated":"2026-11-17 11:19:25"}}
+{
+  "schema": 1,
+  "version": "202611201313live",
+  "updated": "2026-11-20 13:13:00 UTC",
+  "updatedAt": "2026-11-20 13:13:00 UTC",
+  "base": "https://github-com-gh.helloworlds.eu.org/ny666jyc/jnk/raw/m/",
+  "public": true,
+  "tools": {
+    "21": {
+      "name": "小白装机",
+      "filename": "21-小白装机.exe",
+      "file": "files/21.exe",
+      "url": "",
+      "size": 7244288,
+      "sha256": "1b4e561b9e4564c4089fb063747f502a95dc08e6ca8ece5ac487f0fc0c2eb829",
+      "args": ""
+    },
+    "31": {
+      "name": "技术员装机",
+      "filename": "技术员一键重装 密码（vip0）.exe",
+      "file": "files/31.exe",
+      "url": "",
+      "size": 34341376,
+      "sha256": "81a0382732215e152ce947e29084e2fde4c2fe16886a15f905e827b263acf62c",
+      "args": ""
+    },
+    "8": {
+      "name": "驱动总裁",
+      "filename": "8-驱动总裁免登录.exe",
+      "file": "files/8.exe",
+      "url": "",
+      "size": 30047837,
+      "sha256": "9053460ea4b3525e3f17da3161a38ca9af69f7d98691b4237b294204999f7538",
+      "args": ""
+    },
+    "13": {
+      "name": "微软运行库",
+      "filename": "13-VC++运行库DX9.exe",
+      "file": "files/13.exe",
+      "url": "",
+      "size": 36876062,
+      "sha256": "820d1b86b88435f4a71834b86f291443dbc44ae7ddd7c791a4c74d7da298614a",
+      "args": ""
+    },
+    "23": {
+      "name": "DRX 修复 DLL 安装",
+      "filename": "23-DRX修复启动器.exe",
+      "file": "files/23.exe",
+      "url": "",
+      "size": 87114740,
+      "sha256": "66f1d4ea8ffab63dfc97b8218c78623a0073cbc9f69bbdfc6a708b9198a4b65d",
+      "args": ""
+    },
+    "28": {
+      "name": "N 卡控制面板安装",
+      "filename": "28-N卡控制面板离线安装.Appx",
+      "file": "files/28.appx",
+      "url": "",
+      "size": 5876587,
+      "sha256": "dd9ca6be34a6f9d90d8eb85ff39c4292f14df32dd7f6e032fec0c8de76b98eeb",
+      "args": ""
+    },
+    "29": {
+      "name": "WinRAR 汉化版",
+      "filename": "29-WinRAR.exe",
+      "file": "files/29.exe",
+      "url": "",
+      "size": 313688,
+      "sha256": "eb88ea8ab19afa1dcd203d3584857b957bd4656ab7c9d7c36f9bff7c4cdf199c",
+      "args": ""
+    },
+    "11": {
+      "name": "系统激活",
+      "filename": "11.exe",
+      "file": "files/11.exe",
+      "url": "",
+      "size": 4707840,
+      "sha256": "6ad72af453a9c4db99a30317e97689e893a110681e84655392865c8a813e8a5c",
+      "args": ""
+    },
+    "20": {
+      "name": "禁用杀毒",
+      "filename": "20-禁用Windows Update.exe",
+      "file": "files/20.exe",
+      "url": "",
+      "size": 524288,
+      "sha256": "c0a1d65e714ca20593721bebdc185abf9166066cf29e17e567f5384c4f12a2bd",
+      "args": ""
+    },
+    "27": {
+      "name": "BitLocker 解密",
+      "filename": "27-BitLocker解密.exe",
+      "file": "files/27.exe",
+      "url": "",
+      "size": 71769005,
+      "sha256": "e64c029459f87f202e9d5217eb942ef2b27c6e5dd7c0bafc3c4dfc70c22b7b1d",
+      "args": ""
+    },
+    "9": {
+      "name": "硬刷网卡",
+      "filename": "9-IT硬工具码密码IT1818.exe",
+      "file": "files/9.exe",
+      "url": "",
+      "size": 45326336,
+      "sha256": "69640adfa772872cdede43ddc056beee02be2bba3509bdba9206026636ddb317",
+      "args": ""
+    },
+    "18": {
+      "name": "网络重置",
+      "filename": "18-网络问题把我拉到桌面双击运行重置.bat",
+      "file": "files/18.bat",
+      "url": "",
+      "size": 51,
+      "sha256": "ce40c2a4fe4ce7e688981e9f7dccb69ec34e47b4b756d7cd579b437c1859a2f7",
+      "args": ""
+    },
+    "15": {
+      "name": "查看电脑自动启动管理",
+      "filename": "15-启动项目管理.exe",
+      "file": "files/15.exe",
+      "url": "",
+      "size": 2915840,
+      "sha256": "8bb5965c02cd67e8672a54ba40c60f240efd3f023afa9ccb129dd1bde7f778c2",
+      "args": ""
+    },
+    "30": {
+      "name": "环境清理工具",
+      "filename": "30-公益环境清理工具.bat",
+      "file": "files/30.bat",
+      "url": "",
+      "size": 40400,
+      "sha256": "eb0b215a6b75f11bc855a0c29595e7f776e1978873adab07f461ea0e8c1d06e3",
+      "args": ""
+    },
+    "33": {
+      "name": "安全清理C盘",
+      "filename": "33-C盘安全清理工具.bat",
+      "file": "files/33.bat",
+      "url": "",
+      "size": 6041,
+      "sha256": "1fab64ab21a5e6c2b4ba3835cb8f322d2fad878366d803224f611551615c2d7b",
+      "args": ""
+    },
+    "34": {
+      "name": "GEEK卸载工具",
+      "filename": "geek.exe",
+      "file": "files/34.exe",
+      "url": "",
+      "size": 11980432,
+      "sha256": "948e3c74eef138499709e414b65ab0490478202d6929439b1a6641b949774824",
+      "args": ""
+    },
+    "35": {
+      "name": "Windows运行记录查询",
+      "filename": "windows运行记录查询.exe",
+      "file": "files/35.exe",
+      "url": "",
+      "size": 1877504,
+      "sha256": "6488018184961f42a817b978240714e351b0ee363b43e7a6d8a1f88cd337a089",
+      "args": ""
+    }
+  },
+  "app": {
+    "name": "纪年科技 · 装机维修工作台",
+    "file": "app/JiNianTech-Setup.exe",
+    "size": 10285833,
+    "sha256": "d205fd52287fb73b7a42c0691ce5a3ce03da6ff1334ff3f279af6383d31625c4",
+    "updated": "2026-11-17 11:19:25"
+  }
+}
