@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "version": "202611202113live",
-  "updated": "2026-11-21 15:20:00",
-  "updatedAt": "2026-11-21 15:20:00",
+  "version": "202611211534live",
+  "updated": "2026-11-21 15:35:54",
+  "updatedAt": "2026-11-21 15:35:54",
   "base": "https://ghproxy.net/https://raw.githubusercontent.com/ny666jyc/jnk/m/",
   "public": true,
   "tools": {
@@ -161,10 +161,11 @@
     }
   },
   "app": {
-    "name": "纪年科技 · 装机维修工作台",
-    "file": "app/JiNianTech-Setup.exe",
-    "size": 10285833,
-    "sha256": "d205fd52287fb73b7a42c0691ce5a3ce03da6ff1334ff3f279af6383d31625c4",
-    "updated": "2026-11-17 11:19:25"
+    "filename": "纪年科技装机维修工作台.exe",
+    "file": "app/workbench-3.6.exe",
+    "size": 423424,
+    "sha256": "ba3f2d97cdea47b54796900f0719a29d8d3c920e0486b167a791e415e6db5697",
+    "version": "3.6",
+    "updated": "2026-11-21 15:34:00"
   }
 }
